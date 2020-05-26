@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>goprediction</name>
+    <displayName><![CDATA[GoPrediction]]></displayName>
+    <version><![CDATA[2.0.1]]></version>
+    <description><![CDATA[Adds an input field to provide an URL to a HTML/CSS/JS creation.]]></description>
+    <author><![CDATA[Marek Koncewicz]]></author>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
